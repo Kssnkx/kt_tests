@@ -8,7 +8,7 @@
 | `tests/kt4.py`     | kt 4 |
 | `tests/kt5.py`     | kt 5 |
 | `tests/kt6.py`     | kt 6 |
-| `tests/open_cart_ct7`| kt 7 |
+| `tests/open_cart_ct7/..`| kt 7 |
 | `tests/kt8.py`     | kt 8 |
 | `tests/kt9.py`     | kt 9 |
 | `tests/kt10.py`    | kt 10|
