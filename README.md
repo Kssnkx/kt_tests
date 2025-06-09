@@ -11,3 +11,4 @@
 | `tests/kt8.py`     | kt 8 |
 | `tests/kt9.py`     | kt 9 |
 | `tests/kt10.py`    | kt 10|
+| `pages/..` - page controls|
